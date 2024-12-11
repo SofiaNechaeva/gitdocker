@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 name: Main Workflow
-=======
-name: Main Taski Workflow
->>>>>>> c29379f3111a701985da5395979ec4c9420407d7
 on:
   push:
     branches:
